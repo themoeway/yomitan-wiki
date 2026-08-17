@@ -19,7 +19,7 @@ Be aware that non-English dictionaries generally contain fewer entries than thei
 
 #### Multilingual
 
-  - [WTY](https://yomidevs.github.io/wiktionary-to-yomitan/download/) - Wiktionaries in various languages converted to Yomitan format.
+  - [WTY](https://yomidevs.github.io/wiktionary-to-yomitan/download/) - Wiktionaries in various languages converted to Yomitan format, covering many language pairs not available elsewhere (e.g. Japanese→Chinese, Japanese→Korean).
   - [Wikipedia for Yomitan](https://github.com/MarvNC/wikipedia-yomitan) - All of Wikipedia in Yomitan for various languages.
 
 #### Japanese
